@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm AlyaaXzy</h1>
+<h1 align="center">Hi! 👋 Saya bagus ganz</h1>
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
@@ -14,7 +14,7 @@
 
 
 # AlyaaXzy
-Simple Rpg WhatsApp Bot AlyaaXzy
+Simple Rpg WhatsApp astro bot
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
@@ -26,21 +26,21 @@ Simple Rpg WhatsApp Bot AlyaaXzy
 <a href="https://github.com/Dawnfrosty/Mike-bot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Dawnfrosty/Mike-bot?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
-**NO BOT**
+https://chat.whatsapp.com/L3vqKEnh9BA2rbqcfywZ6W
+**Mau lihat fitur bot ku join ya gays**
 
-## Deploy to heroku
+## Deploy to heroku astro bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
 
-❖ Heroku Buildpack ❖
+❖ Heroku Buildpack astro bot❖
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 Tutorial YouTube
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](AlyaaXzy ?)
-## FOR TERMUX/UBUNTU/SSH USER AlyaaXzy
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](replek gaming)
+## FOR TERMUX/UBUNTU/SSH DARI ASTRO BOT
 
 ```bash
 apt update && apt upgrade
